@@ -5,6 +5,8 @@
 [![npm](https://img.shields.io/badge/npm-enabled-blue.svg)](https://docs.npmjs.com/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Project Status](https://img.shields.io/badge/Status-Developing-yellow.svg)](https://github.com/your-username/your-repo-name) 
+
+
 Uma API REST simples para listar e filtrar podcasts por nome e idioma.
 
 ---
