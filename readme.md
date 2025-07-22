@@ -4,7 +4,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![npm](https://img.shields.io/badge/npm-enabled-blue.svg)](https://docs.npmjs.com/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Project Status](https://img.shields.io/badge/Status-Developing-yellow.svg)](https://github.com/your-username/your-repo-name) Uma API REST simples para listar e filtrar podcasts por nome e idioma.
+[![Project Status](https://img.shields.io/badge/Status-Developing-yellow.svg)](https://github.com/your-username/your-repo-name)
+
+
+Uma API REST simples para listar e filtrar podcasts por nome e idioma.
 
 ---
 
@@ -159,8 +162,7 @@ A API está acessível na porta configurada (ex: `http://localhost:3000`).
 
 ## Estrutura do Projeto 📁
 
-````
-
+```
 apii/
 ├── src/
 │   ├── controllers/            \# Lógica de manipulação de requisições e respostas
@@ -189,10 +191,15 @@ apii/
 ├── tsconfig.json               \# Configurações do TypeScript
 ├── tsup.config.ts              \# Configurações do Tsup (para build)
 └── README.md                   \# Este arquivo\!
-
 ```
-
 ---
+
+## Arquitetura do Projeto 📐
+
+A imagem abaixo ilustra a arquitetura de alto nível da API, mostrando o fluxo de dados e a interação entre os principais componentes:
+
+![Diagrama de Arquitetura da API](docs/arch/shapes.png) ---
+
 
 ## Licença 📄
 
