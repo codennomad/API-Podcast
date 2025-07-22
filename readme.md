@@ -1,4 +1,4 @@
-# apii - API de Podcasts 🎧
+# API de Podcasts 🎧
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
